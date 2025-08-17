@@ -1,17 +1,17 @@
 
-# **Healthcare One-Word Domain Names**: Daily Updated List of Available Domains
+# **healthcare One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Healthcare one-word domains.
+This regularly updated dataset includes the latest available healthcare one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/healthcare-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Healthcare one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **healthcare one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Healthcare domains.
+- **Domain Name**: High-quality, single-word healthcare domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Healthcare one-word
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain       | status    | attractiveness | demand | length | created          | expires          | registrar                                   | sectors                               |
-| ------------ | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------- | ------------------------------------- |
-| period.xyz   | resell    | 128            | 88     | 6      | 02/06/2014 16:33 | 02/06/2026 23:59 | Go Daddy, LLC                               | Education,General,Healthcare,Media    |
-| period.tech  | available | 128            | 88     | 6      |                  |                  |                                             | Education,General,Healthcare,Media    |
-| steady.me    | expiring  | 122            | 80     | 6      | 17/07/2008 17:28 | 17/07/2025 17:28 | GoDaddy.com, LLC                            | Business,Finance,Healthcare           |
-| psych.it     | resell    | 120            | 84     | 5      | 27/02/2021 16:00 | 27/02/2026 00:00 |                                             | Healthcare,Media,Pharmaceuticals      |
-| thin.me      | expiring  | 118            | 88     | 4      | 30/07/2008 21:37 | 30/07/2025 21:37 | Dynadot Inc                                 | Fashion,Food and Beverage,Healthcare  |
-| leg.space    | available | 116            | 92     | 3      |                  |                  |                                             | Fashion,General,Healthcare,Sports     |
-| leg.cloud    | available | 116            | 92     | 3      |                  |                  |                                             | Fashion,General,Healthcare,Sports     |
-| leg.online   | available | 116            | 92     | 3      |                  |                  |                                             | Fashion,General,Healthcare,Sports     |
-| birth.at     | available | 114            | 92     | 5      |                  |                  |                                             | Healthcare,Humanities,Medicine        |
-| birth.pro    | resell    | 114            | 92     | 5      | 08/09/2024 15:15 | 08/09/2025 15:15 | Sav.com, LLC - 26                           | Healthcare,Humanities,Medicine        |
-| woman.space  | available | 112            | 76     | 5      |                  |                  |                                             | Fashion,General,Healthcare            |
-| pity.dev     | expiring  | 112            | 76     | 4      | 23/07/2021 14:59 | 23/07/2025 14:59 | Namecheap Inc.                              | Healthcare                            |
-| advance.org  | expiring  | 110            | 52     | 7      | 18/08/2002 18:06 | 18/08/2025 18:06 | GoDaddy.com, LLC                            | Business,Education,Healthcare         |
-| intimate.net | resell    | 110            | 80     | 8      | 09/08/2000 10:45 | 09/08/2025 10:45 | GoDaddy Online Services Cayman Islands Ltd. | Fashion,Healthcare,Media              |
-| adult.site   | available | 110            | 44     | 5      |                  |                  |                                             | Education,Healthcare                  |
-| intimate.me  | expiring  | 110            | 80     | 8      | 17/07/2008 15:02 | 17/07/2025 15:02 | DNPric.es                                   | Fashion,Healthcare,Media              |
-| adult.expert | available | 110            | 44     | 5      |                  |                  |                                             | Education,Healthcare                  |
-| advance.xyz  | resell    | 110            | 52     | 7      | 05/06/2020 23:59 | 05/06/2026 23:59 | Spaceship, Inc.                             | Business,Education,Healthcare         |
-| intimate.so  | resell    | 110            | 80     | 8      | 15/04/2023 15:39 | 15/04/2026 15:39 | Dynadot LLC                                 | Fashion,Healthcare,Media              |
-| stat.site    | available | 110            | 84     | 4      |                  |                  |                                             | Education,Healthcare,Technology       |
-| face.pro     | resell    | 108            | 88     | 4      | 06/03/2005 00:00 | 06/03/2026 00:00 | Registrar of Domain Names REG.RU LLC        | Fashion,General,Healthcare,Media      |
-| vaccine.co   | expiring  | 108            | 76     | 7      | 20/07/2010 18:00 | 19/07/2025 23:59 | Hello Internet Corp.                        | Healthcare,Medicine,Pharmaceuticals   |
-| joint.ai     | resell    | 108            | 44     | 5      | 17/05/2018 19:26 | 17/05/2026 19:26 | Deep Vision Architects                      | Construction,Healthcare,Manufacturing |
-| joint.zone   | available | 108            | 44     | 5      |                  |                  |                                             | Construction,Healthcare,Manufacturing |
-| face.dev     | expiring  | 108            | 88     | 4      | 24/07/2024 16:02 | 24/07/2025 16:02 | GoDaddy.com, LLC                            | Fashion,General,Healthcare,Media      |
-| joint.gg     | resell    | 108            | 44     | 5      |                  |                  | 1API (http://www.1api.net)                  | Construction,Healthcare,Manufacturing |
-| reflex.me    | expiring  | 108            | 88     | 6      | 18/07/2008 00:17 | 18/07/2025 00:17 | Dynadot Inc                                 | Healthcare,Medicine,Sports            |
-| hear.io      | resell    | 106            | 80     | 4      | 20/11/2023 12:16 | 20/11/2025 12:16 | GoDaddy.com, LLC                            | Education,General,Healthcare,Media    |
-| trial.net    | resell    | 106            | 92     | 5      | 03/06/1997 04:00 | 02/06/2026 04:00 | Tucows Domains Inc.                         | Business,Healthcare,Law               |
-| immune.so    | available | 106            | 80     | 6      |                  |                  |                                             | Healthcare,Medicine,Pharmaceuticals   |
+| domain               | status    | attractiveness | demand | length | created          | expires          | registrar        | sectors                           |
+| -------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------- | --------------------------------- |
+| second.healthcare    | available | 120            | 23     | 6      |                  |                  |                  | General,Mathematics               |
+| flat.healthcare      | available | 116            | 24     | 4      |                  |                  |                  | Construction,Real Estate          |
+| tenth.healthcare     | available | 116            | 7      | 5      |                  |                  |                  | Mathematics                       |
+| nought.healthcare    | available | 92             | 4      | 6      |                  |                  |                  | Mathematics                       |
+| twentieth.healthcare | available | 92             | 3      | 9      |                  |                  |                  | Mathematics                       |
+| leash.healthcare     | available | 90             | 7      | 5      |                  |                  |                  | General,Health and Fitness,Retail |
+| ten.healthcare       | available | 88             | 28     | 3      |                  |                  |                  | General,Mathematics               |
+| eleven.healthcare    | available | 88             | 33     | 6      |                  |                  |                  | Mathematics                       |
+| fifteen.healthcare   | available | 88             | 13     | 7      |                  |                  |                  | Mathematics                       |
+| twelve.healthcare    | available | 88             | 18     | 6      |                  |                  |                  | General,Mathematics               |
+| ace.healthcare       | available | 88             | 34     | 3      |                  |                  |                  | Sports                            |
+| hundred.healthcare   | available | 88             | 14     | 7      |                  |                  |                  | Mathematics                       |
+| sixteen.healthcare   | available | 88             | 11     | 7      |                  |                  |                  | Mathematics                       |
+| three.healthcare     | available | 88             | 24     | 5      |                  |                  |                  | Mathematics                       |
+| xiv.healthcare       | available | 86             | 12     | 3      |                  |                  |                  | Mathematics                       |
+| xix.healthcare       | available | 86             | 11     | 3      |                  |                  |                  | Mathematics                       |
+| fourteen.healthcare  | available | 84             | 8      | 8      |                  |                  |                  | Mathematics                       |
+| thirteen.healthcare  | available | 84             | 10     | 8      |                  |                  |                  | Mathematics                       |
+| seventeen.healthcare | available | 84             | 7      | 9      |                  |                  |                  | Mathematics                       |
+| twentytwo.healthcare | available | 84             | 11     | 10     |                  |                  |                  | Mathematics                       |
+| nineteen.healthcare  | available | 84             | 8      | 8      |                  |                  |                  | Mathematics                       |
+| thousand.healthcare  | available | 84             | 8      | 8      |                  |                  |                  | Mathematics                       |
+| twentyone.healthcare | available | 84             | 13     | 10     |                  |                  |                  | Mathematics                       |
+| grand.healthcare     | available | 84             | 25     | 5      |                  |                  |                  | Finance,General                   |
+| decade.healthcare    | available | 82             | 10     | 6      |                  |                  |                  | Mathematics                       |
+| dozen.healthcare     | available | 82             | 10     | 5      |                  |                  |                  | Mathematics                       |
+| twenty.healthcare    | available | 80             | 12     | 6      |                  |                  |                  | Mathematics                       |
+| first.healthcare     | expired   | 80             | 36     | 5      | 07/06/2017 00:50 | 07/06/2025 00:50 | GoDaddy.com, LLC | General,Mathematics               |
+| trio.healthcare      | available | 80             | 21     | 4      |                  |                  |                  | Entertainment                     |
+| two.healthcare       | available | 80             | 24     | 3      |                  |                  |                  | Mathematics                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
