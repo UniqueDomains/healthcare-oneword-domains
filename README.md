@@ -1,17 +1,17 @@
 
-# **Healthcare One-Word Domain Names**: Daily Updated List of Available Domains
+# **healthcare One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Healthcare one-word domains.
+This regularly updated dataset includes the latest available healthcare one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/healthcare-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Healthcare one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **healthcare one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Healthcare domains.
+- **Domain Name**: High-quality, single-word healthcare domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Healthcare one-word
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar                                   | sectors                               |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------- | ------------------------------------- |
-| period.xyz    | resell    | 128            | 88     | 6      | 02/06/2014 16:33 | 02/06/2026 23:59 | Go Daddy, LLC                               | Education,General,Healthcare,Media    |
-| steady.me     | expiring  | 122            | 80     | 6      | 17/07/2008 17:28 | 17/07/2025 17:28 | GoDaddy.com, LLC                            | Business,Finance,Healthcare           |
-| psych.it      | resell    | 120            | 84     | 5      | 27/02/2021 16:00 | 27/02/2026 00:00 |                                             | Healthcare,Media,Pharmaceuticals      |
-| leg.space     | available | 116            | 92     | 3      |                  |                  |                                             | Fashion,General,Healthcare,Sports     |
-| leg.cloud     | available | 116            | 92     | 3      |                  |                  |                                             | Fashion,General,Healthcare,Sports     |
-| birth.at      | available | 114            | 92     | 5      |                  |                  |                                             | Healthcare,Humanities,Medicine        |
-| woman.space   | available | 112            | 76     | 5      |                  |                  |                                             | Fashion,General,Healthcare            |
-| pity.dev      | expiring  | 112            | 76     | 4      | 23/07/2021 14:59 | 23/07/2025 14:59 | Namecheap Inc.                              | Healthcare                            |
-| advance.org   | expiring  | 110            | 52     | 7      | 18/08/2002 18:06 | 18/08/2025 18:06 | GoDaddy.com, LLC                            | Business,Education,Healthcare         |
-| intimate.net  | resell    | 110            | 80     | 8      | 09/08/2000 10:45 | 09/08/2025 10:45 | GoDaddy Online Services Cayman Islands Ltd. | Fashion,Healthcare,Media              |
-| adult.site    | available | 110            | 44     | 5      |                  |                  |                                             | Education,Healthcare                  |
-| intimate.me   | expiring  | 110            | 80     | 8      | 17/07/2008 15:02 | 17/07/2025 15:02 | DNPric.es                                   | Fashion,Healthcare,Media              |
-| adult.expert  | available | 110            | 44     | 5      |                  |                  |                                             | Education,Healthcare                  |
-| face.pro      | resell    | 108            | 88     | 4      | 06/03/2005 00:00 | 06/03/2026 00:00 | Registrar of Domain Names REG.RU LLC        | Fashion,General,Healthcare,Media      |
-| vaccine.co    | expiring  | 108            | 76     | 7      | 20/07/2010 18:00 | 19/07/2025 23:59 | Hello Internet Corp.                        | Healthcare,Medicine,Pharmaceuticals   |
-| joint.ai      | resell    | 108            | 44     | 5      | 17/05/2018 19:26 | 17/05/2026 19:26 | Deep Vision Architects                      | Construction,Healthcare,Manufacturing |
-| joint.zone    | available | 108            | 44     | 5      |                  |                  |                                             | Construction,Healthcare,Manufacturing |
-| face.dev      | expiring  | 108            | 88     | 4      | 24/07/2024 16:02 | 24/07/2025 16:02 | GoDaddy.com, LLC                            | Fashion,General,Healthcare,Media      |
-| joint.gg      | resell    | 108            | 44     | 5      |                  |                  | 1API (http://www.1api.net)                  | Construction,Healthcare,Manufacturing |
-| hear.io       | resell    | 106            | 80     | 4      | 20/11/2023 12:16 | 20/11/2025 12:16 | GoDaddy.com, LLC                            | Education,General,Healthcare,Media    |
-| trial.net     | resell    | 106            | 92     | 5      | 03/06/1997 04:00 | 02/06/2026 04:00 | Tucows Domains Inc.                         | Business,Healthcare,Law               |
-| immune.so     | available | 106            | 80     | 6      |                  |                  |                                             | Healthcare,Medicine,Pharmaceuticals   |
-| hear.pro      | resell    | 106            | 80     | 4      | 31/03/2022 13:15 | 31/03/2026 13:15 | Registrar of Domain Names REG.RU LLC        | Education,General,Healthcare,Media    |
-| teen.jetzt    | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.gay      | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.casino   | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.services | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.trade    | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.theater  | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
-| teen.london   | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
+| domain               | status    | attractiveness | demand | length | created          | expires          | registrar                                   | sectors                               |
+| -------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------- | ------------------------------------- |
+| brief.healthcare     | available | 124            | 19     | 5      |                  |                  |                                             | Business,Education,General,Law        |
+| second.healthcare    | available | 120            | 23     | 6      |                  |                  |                                             | General,Mathematics                   |
+| wizard.healthcare    | available | 118            | 42     | 6      |                  |                  |                                             | Entertainment,Media,Technology        |
+| flat.healthcare      | available | 116            | 24     | 4      |                  |                  |                                             | Construction,Real Estate              |
+| tenth.healthcare     | available | 116            | 7      | 5      |                  |                  |                                             | Mathematics                           |
+| equal.healthcare     | available | 116            | 19     | 5      |                  |                  |                                             | Education,General,Law                 |
+| above.healthcare     | available | 112            | 22     | 5      |                  |                  |                                             | Business                              |
+| hotshot.healthcare   | available | 112            | 14     | 7      |                  |                  |                                             | Business,Entertainment,Sports         |
+| acute.healthcare     | expired   | 112            | 9      | 5      | 21/06/2024 03:43 | 21/06/2025 03:43 | Dynadot Inc                                 | Mathematics,Medicine,Science          |
+| abiding.healthcare   | available | 106            | 5      | 7      |                  |                  |                                             | General,Religion                      |
+| teen.healthcare      | available | 104            | 14     | 4      |                  |                  |                                             | Education,Entertainment,Healthcare    |
+| expert.healthcare    | available | 104            | 26     | 6      |                  |                  |                                             | Business,Education,Technology         |
+| eight.healthcare     | available | 102            | 23     | 5      |                  |                  |                                             | General,Mathematics                   |
+| extra.healthcare     | available | 102            | 26     | 5      |                  |                  |                                             | Fashion,Retail,Technology             |
+| absent.healthcare    | available | 102            | 8      | 6      |                  |                  |                                             | Business,Education,Technology         |
+| captive.healthcare   | available | 102            | 14     | 7      |                  |                  |                                             | Entertainment,Hospitality,Technology  |
+| remove.healthcare    | available | 100            | 13     | 6      |                  |                  |                                             | Construction,Manufacturing,Technology |
+| ninth.healthcare     | available | 100            | 9      | 5      |                  |                  |                                             | Mathematics                           |
+| third.healthcare     | available | 100            | 16     | 5      |                  |                  |                                             | Mathematics                           |
+| abrupt.healthcare    | available | 100            | 3      | 6      |                  |                  |                                             | Medicine,Science                      |
+| sixth.healthcare     | available | 100            | 8      | 5      |                  |                  |                                             | Mathematics                           |
+| crack.healthcare     | available | 100            | 20     | 5      |                  |                  |                                             | Sports                                |
+| eighth.healthcare    | available | 100            | 6      | 6      |                  |                  |                                             | Mathematics                           |
+| adjunct.healthcare   | available | 100            | 5      | 7      |                  |                  |                                             | Education                             |
+| whiz.healthcare      | available | 100            | 12     | 4      |                  |                  |                                             | Business,Education,Technology         |
+| genius.healthcare    | resell    | 98             | 46     | 6      | 23/02/2017 20:48 | 23/02/2026 20:48 | GoDaddy Online Services Cayman Islands Ltd. | Arts,Education,Technology             |
+| whizz.healthcare     | available | 98             | 11     | 5      |                  |                  |                                             | Business,Education,Technology         |
+| forgiving.healthcare | available | 96             | 3      | 9      |                  |                  |                                             | Healthcare,Religion                   |
+| alamode.healthcare   | available | 96             | 12     | 9      |                  |                  |                                             | Fashion                               |
+| doable.healthcare    | available | 96             | 9      | 6      |                  |                  |                                             | Business,Education,Technology         |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
