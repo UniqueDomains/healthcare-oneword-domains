@@ -1,62 +1,62 @@
 
-# List of .HEALTHCARE One Word Domain Names (3,285)
+# List of Healthcare One Word Domain Names (6,080)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/healthcare-oneword-domains.svg?style=flat)]() [![3,285 .HEALTHCARE one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C285-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Healthcare-oneword-domains.svg?style=flat)]() [![6,080 Healthcare one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-6%2C080-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .HEALTHCARE one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Healthcare one-word domains still available to buy.
 
-This dataset contains 3,367 .HEALTHCARE one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Healthcare one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.HEALTHCARE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=description.top) (3,285) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Healthcare one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=description.top) (6,080) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/healthcare.csv"><b>⬇️ CSV (3.37K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/healthcare.json"><b>⬇️ JSON (3.37K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.29K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/blob/main/Healthcare.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/blob/main/Healthcare.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.08K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| --------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.healthcare  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.healthcare      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.healthcare  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.healthcare    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.healthcare     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.healthcare   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.healthcare     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.healthcare    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.healthcare   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.healthcare  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.healthcare  | available | 82       | 2%     | 9      |           |         |         |
-| abdominous.healthcare | available | 56       | 1%     | 10     |           |         |         |
-| abducens.healthcare   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.healthcare   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.healthcare  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.healthcare    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.healthcare | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.healthcare   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.healthcare    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.healthcare  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.healthcare    | available | 106      | 5%     | 7      |           |         |         |
-| abient.healthcare     | available | 54       | 1%     | 6      |           |         |         |
-| abject.healthcare     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.healthcare     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.healthcare  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.healthcare     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.healthcare  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.healthcare    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.healthcare   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.healthcare     | available | 72       | 6%     | 6      |           |         |         |
+| Domain           | Status    | Attract. | Demand | Length | Registrar                                             | Created          | Expires          |
+| ---------------- | --------- | -------- | ------ | ------ | ----------------------------------------------------- | ---------------- | ---------------- |
+| services.at      | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.cloud   | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.co      | resell    | 72       | 92%    | 8      | Hello Internet Corp.                                  | 25/02/2010 00:55 | 24/02/2026 23:59 |
+| services.online  | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.site    | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.space   | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.store   | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| services.tech    | available | 72       | 92%    | 8      |                                                       |                  |                  |
+| care.ac          | expiring  | 80       | null%  | 4      | Spaceship, Inc.                                       | 27/09/2012 16:51 | 27/09/2025 16:51 |
+| care.bz          | available | 80       | null%  | 4      |                                                       |                  |                  |
+| care.cloud       | available | 80       | 92%    | 4      |                                                       |                  |                  |
+| care.co          | resell    | 80       | 92%    | 4      | Hello Internet Corp.                                  | 24/02/2010 23:16 | 23/02/2026 23:59 |
+| care.dev         | available | 80       | 92%    | 4      |                                                       |                  |                  |
+| care.im          | available | 80       | null%  | 4      |                                                       |                  |                  |
+| care.it          | expiring  | 80       | 92%    | 4      |                                                       | 15/09/2021 16:00 | 15/09/2025 00:00 |
+| care.la          | resell    | 80       | null%  | 4      | Internet Domain Service BS Corp.                      | 02/02/2004 01:00 | 02/02/2026 23:59 |
+| care.mx          | resell    | 80       | null%  | 4      | NameSilo                                              | 03/10/2009 00:00 | 02/10/2025 00:00 |
+| care.online      | available | 80       | 92%    | 4      |                                                       |                  |                  |
+| care.space       | available | 80       | 92%    | 4      |                                                       |                  |                  |
+| care.store       | available | 80       | 92%    | 4      |                                                       |                  |                  |
+| care.vc          | resell    | 80       | null%  | 4      | Name.com, Inc.                                        | 25/03/2020 07:01 | 25/03/2026 07:01 |
+| health.at        | sold      | 92       | 96%    | 6      | DAY Investments GmbH ( https://nic.at/registrar/485 ) |                  |                  |
+| health.cloud     | premium   | 92       | 96%    | 6      |                                                       |                  |                  |
+| health.dev       | premium   | 92       | 96%    | 6      |                                                       |                  |                  |
+| health.site      | premium   | 92       | 96%    | 6      |                                                       |                  |                  |
+| health.space     | premium   | 92       | 96%    | 6      |                                                       |                  |                  |
+| health.store     | resell    | 92       | 96%    | 6      | Dotserve Inc                                          | 23/12/2016 11:20 | 23/12/2029 23:59 |
+| health.xyz       | expiring  | 92       | 96%    | 6      | Sav.com, LLC - 1                                      | 08/07/2022 09:26 | 08/07/2025 23:59 |
+| healthcare.at    | available | 76       | 92%    | 10     |                                                       |                  |                  |
+| healthcare.cloud | available | 64       | 92%    | 10     |                                                       |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/healthcare.csv"><b>⬇️ CSV (3.37K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/healthcare.json"><b>⬇️ JSON (3.37K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.29K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/blob/main/Healthcare.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Healthcare-oneword-domains/blob/main/Healthcare.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (6.08K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -64,7 +64,7 @@ If you want to search & filters the complete database of [.HEALTHCARE one word d
 
 # Which data do we provide?
 
-- **Domain Name**: High-quality, single-word .HEALTHCARE domains.
+- **Domain Name**: High-quality, single-word Healthcare domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -646,11 +646,11 @@ If you want to search & filters the complete database of [.HEALTHCARE one word d
 | Travel             | 4,279        | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 3,639        | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Healthcare-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=description.image)
         
