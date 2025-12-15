@@ -368,6 +368,10 @@ c0dfb676-0fd7-496a-8bdb-7abf882f6c7a,services.wtf,premium,72,24,8,,,
 53e05ad9-e12a-4de7-8d46-f0602468093e,services.you,premium,72,24,8,,,
 c4445b4f-e4cc-4759-bfb2-3325b4f493e8,services.zip,premium,72,24,8,,,
 c8b82e69-2f69-440e-abff-c44b69e17f02,services.zone,resell,72,24,8,"DNSPod, Inc.",18/08/2020 03:13,18/08/2026 03:13
+31e9d6a1-5a4c-49ce-942f-32ea40b0d1eb,care.diet,premium,80,31,4,,,
+ec99102f-80f6-4735-ae3d-eb5eef4a3679,care.direct,sold,80,31,4,"GoDaddy.com, LLC",13/12/2016 01:06,13/12/2026 01:06
+a84c41a2-bba1-4c08-ac41-29f64ee7f9f6,care.directory,sold,80,31,4,"Spaceship, Inc.",16/06/2022 13:15,16/06/2026 13:15
+c8d395c0-9bf9-421a-af89-28fb50625e77,care.discount,premium,80,31,4,,,
 4af63c96-61ea-4120-9ff0-e1e70a06444a,care.diy,premium,80,31,4,,,
 93451f74-c9a8-4d38-bec5-e9e47190d3be,care.domains,resell,80,31,4,"GoDaddy.com, LLC",17/07/2017 00:16,17/07/2026 00:16
 60de0a99-fb2e-4956-a813-54d4a6fbbae0,care.download,premium,80,31,4,,,
@@ -701,10 +705,6 @@ c13f5ce8-f969-4d67-9eb8-e1eef53582ab,care.day,premium,80,31,4,,,
 882f951b-4b32-410e-9ee5-3444c835270b,care.dentist,premium,80,31,4,,,
 8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,sold,80,31,4,"GoDaddy.com, LLC",21/07/2025 21:34,21/07/2026 21:34
 6b9e99a6-01b1-4d43-a532-99efa90b96af,care.diamonds,available,80,31,4,,,
-31e9d6a1-5a4c-49ce-942f-32ea40b0d1eb,care.diet,premium,80,31,4,,,
-ec99102f-80f6-4735-ae3d-eb5eef4a3679,care.direct,sold,80,31,4,"GoDaddy.com, LLC",13/12/2016 01:06,13/12/2026 01:06
-a84c41a2-bba1-4c08-ac41-29f64ee7f9f6,care.directory,sold,80,31,4,"Spaceship, Inc.",16/06/2022 13:15,16/06/2026 13:15
-c8d395c0-9bf9-421a-af89-28fb50625e77,care.discount,premium,80,31,4,,,
 d13c43ad-96cf-4dbc-bbbc-5b058b384e2d,health.ac,resell,92,37,6,"GoDaddy.com, LLC",25/06/2019 02:43,25/06/2026 02:43
 ef85acc2-652a-404a-aeef-43e802aea447,health.accountant,premium,92,37,6,,,
 1c1897b7-cd19-4229-bc7b-00cd33b36ba1,health.accountants,available,92,37,6,,,
