@@ -373,6 +373,8 @@ c0dfb676-0fd7-496a-8bdb-7abf882f6c7a,services.wtf,premium,72,23,8,,,
 53e05ad9-e12a-4de7-8d46-f0602468093e,services.you,premium,72,23,8,,,
 c4445b4f-e4cc-4759-bfb2-3325b4f493e8,services.zip,premium,72,23,8,,,
 c8b82e69-2f69-440e-abff-c44b69e17f02,services.zone,resell,72,23,8,"DNSPod, Inc.",18/08/2020 03:13,18/08/2026 03:13
+8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,sold,80,31,4,"GoDaddy.com, LLC",21/07/2025 21:34,21/07/2026 21:34
+6b9e99a6-01b1-4d43-a532-99efa90b96af,care.diamonds,available,80,31,4,,,
 31e9d6a1-5a4c-49ce-942f-32ea40b0d1eb,care.diet,premium,80,31,4,,,
 ec99102f-80f6-4735-ae3d-eb5eef4a3679,care.direct,sold,80,31,4,"GoDaddy.com, LLC",13/12/2016 01:06,13/12/2026 01:06
 a84c41a2-bba1-4c08-ac41-29f64ee7f9f6,care.directory,sold,80,31,4,"Spaceship, Inc.",16/06/2022 13:15,16/06/2026 13:15
@@ -448,6 +450,7 @@ d2f34cfa-bad8-4a17-a268-89af8b89ca47,care.hosting,premium,80,31,4,,,
 403c15e7-211c-406e-bb76-f232efd85a70,care.im,premium,80,31,4,,,
 459370d4-7483-4922-8835-f9522f24a1ee,care.industries,premium,80,31,4,,,
 7964e092-f405-4c3f-8110-dad774482945,care.ing,premium,80,31,4,,,
+41125f6c-c452-4372-b77c-2e50aeda220a,care.international,expired,80,31,4,"GoDaddy.com, LLC",04/11/2023 02:07,04/11/2025 02:07
 fb8a460c-ea85-4ced-af44-110dfc7bdd04,care.investments,premium,80,31,4,,,
 d4b6189e-79c5-4e99-9a6b-6ebaa6a2c884,care.irish,available,80,31,4,,,
 5aa4643e-528b-434a-bba1-9d3dc56c937a,care.it,resell,80,31,4,,15/09/2021 16:00,15/09/2026 00:00
@@ -459,7 +462,7 @@ f946c3bb-5762-4459-89a4-6dbd4a0ef1a9,care.kids,resell,80,31,4,"NameCheap, Inc.",
 f9727e54-3094-46e8-b74b-97549f77757a,care.kitchen,available,80,31,4,,,
 593e6e90-b90f-4f70-b3fe-1f5a2ff74694,care.la,resell,80,31,4,Internet Domain Service BS Corp.,02/02/2004 01:00,02/02/2026 23:59
 1e4ca36b-8cc7-4b02-91ad-7bccbb99e725,care.lat,premium,80,31,4,,,
-752f621f-188c-44e8-ac21-0287ecdaefad,care.law,expired,80,31,4,101domain GRS Limited,01/10/2021 14:52,01/10/2025 14:52
+752f621f-188c-44e8-ac21-0287ecdaefad,care.law,premium,80,31,4,,,
 7696504a-feae-41c2-a049-154e63ca767e,care.lawyer,premium,80,31,4,,,
 d75811c1-0d93-4245-9e27-ed62b3c53c61,care.lease,premium,80,31,4,,,
 2e1b5994-4d63-46e9-aba3-3be4fa44a25d,care.lgbt,premium,80,31,4,,,
@@ -467,7 +470,7 @@ d75811c1-0d93-4245-9e27-ed62b3c53c61,care.lease,premium,80,31,4,,,
 57a38cff-df83-472f-9154-261d2b9af0d7,care.lighting,sold,80,31,4,united-domains GmbH,07/09/2021 08:48,07/09/2026 08:48
 6a7bfd55-3d5e-4e03-9778-bb1232675da8,care.limited,premium,80,31,4,,,
 4d68f8d4-cb19-4c7d-89ed-a40425d6c420,care.limo,available,80,31,4,,,
-b88670ad-5ce4-478f-ae07-bdb532b9d33d,care.live,resell,80,31,4,Porkbun LLC,13/01/2024 21:03,13/01/2026 21:03
+b88670ad-5ce4-478f-ae07-bdb532b9d33d,care.live,expiring,80,31,4,Porkbun LLC,13/01/2024 21:03,13/01/2026 21:03
 1dc83208-4002-4f9b-8ba4-f3404ab482cf,care.living,premium,80,31,4,,,
 118eceed-760a-4413-b42e-79c3829b5716,care.llc,resell,80,31,4,Porkbun LLC,13/12/2023 15:15,13/12/2026 15:15
 2071eb4f-06e5-4375-adb4-93196e381b7a,care.loan,premium,80,31,4,,,
@@ -620,7 +623,7 @@ a95a4bc2-9e36-4f52-996b-1d94a58927ad,care.webcam,premium,80,31,4,,,
 2084115c-2d87-4cca-a8c9-aa8a9a428635,care.wedding,premium,80,31,4,,,
 37c048d3-5369-4995-87b1-9f678eccea7c,care.wiki,premium,80,31,4,,,
 15fc5440-e784-4591-91ee-0392e86ec01b,care.win,premium,80,31,4,,,
-eabeb81d-7b56-4498-a5cf-45a66453e273,care.xyz,expiring,80,31,4,"Sav.com, LLC",17/12/2021 23:36,17/12/2025 23:59
+eabeb81d-7b56-4498-a5cf-45a66453e273,care.xyz,resell,80,31,4,"Sav.com, LLC",17/12/2021 23:36,17/12/2026 23:59
 c46121f1-9213-4f8a-81b5-9d3feb8b5b50,care.yachts,premium,80,31,4,,,
 a69dfe88-c96c-4461-ab6a-0a7695cf6786,care.yoga,resell,80,31,4,"Sav.com, LLC - 7",14/11/2025 00:00,14/11/2026 00:00
 e3036274-5e2f-42cb-a4ab-8b7a8c1d044c,care.you,resell,80,31,4,"Spaceship, Inc.",07/10/2025 00:59,07/10/2026 00:59
@@ -649,7 +652,7 @@ b8fe0500-698a-4875-a63e-b1336c07d843,care.beauty,premium,80,31,4,,,
 0dbad187-5bad-4e41-9b3e-afe26e428f88,care.bid,resell,80,31,4,Porkbun,27/07/2019 03:11,27/07/2026 03:11
 d93936a4-2752-4702-a36c-02d4e932684a,care.bingo,available,80,31,4,,,
 9a5357db-428f-4352-a0e9-99d9fee67e76,care.bio,resell,80,31,4,Vautron Rechenzentrum AG,09/09/2014 17:46,09/09/2026 17:46
-f9cfcca0-0da0-4d7f-aa23-827a8d459b1b,care.black,resell,80,31,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/11/2024 17:00,07/11/2025 17:00
+f9cfcca0-0da0-4d7f-aa23-827a8d459b1b,care.black,expired,80,31,4,"Xiamen ChinaSource Internet Service Co., Ltd",07/11/2024 17:00,07/11/2025 17:00
 a6bae29f-da9e-40dd-91a3-a9294e2c897c,care.blackfriday,available,80,31,4,,,
 6ddf6a3f-ceed-4c05-af3b-b5947e882b20,care.blog,premium,80,31,4,,,
 69b8cc36-1736-4d99-9245-141d9ec4b475,care.blue,premium,80,31,4,,,
@@ -668,6 +671,7 @@ ec540d8b-d458-4d0a-9440-8537ab4a9c76,care.camp,resell,80,31,4,"Sav.com, LLC - 6"
 79ee4dd7-dd84-4b3f-9ceb-e728bf905342,care.cards,premium,80,31,4,,,
 e236b85b-02f8-471a-91b6-1890541ce78a,care.careers,premium,80,31,4,,,
 8cc531fb-7a8f-4e2b-a3e6-8ef1acf4bbfc,care.cars,available,80,31,4,,,
+05540782-5b72-4ea1-b4e1-5db4964d47d1,care.casa,expiring,80,31,4,"Spaceship, Inc.",17/01/2025 16:39,17/01/2026 16:39
 61d5b2cd-3423-4d5c-9ca9-8a3ea411db1b,care.casino,available,80,31,4,,,
 a0a878dc-99ba-4bbc-985b-11db7c27ded8,care.catering,premium,80,31,4,,,
 94bf5671-22f8-4941-ac92-03c1ccc90382,care.ceo,available,80,31,4,,,
@@ -708,8 +712,6 @@ c13f5ce8-f969-4d67-9eb8-e1eef53582ab,care.day,premium,80,31,4,,,
 0f28d547-3ce5-4fd4-aa3e-ced1bc0ca549,care.delivery,sold,80,31,4,Dynadot Inc,24/10/2020 13:59,24/10/2026 13:59
 31d93de1-65be-49bc-8e98-5b31cccec412,care.democrat,available,80,31,4,,,
 882f951b-4b32-410e-9ee5-3444c835270b,care.dentist,premium,80,31,4,,,
-8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,sold,80,31,4,"GoDaddy.com, LLC",21/07/2025 21:34,21/07/2026 21:34
-6b9e99a6-01b1-4d43-a532-99efa90b96af,care.diamonds,available,80,31,4,,,
 d13c43ad-96cf-4dbc-bbbc-5b058b384e2d,health.ac,resell,92,36,6,"GoDaddy.com, LLC",25/06/2019 02:43,25/06/2026 02:43
 ef85acc2-652a-404a-aeef-43e802aea447,health.accountant,premium,92,36,6,,,
 1c1897b7-cd19-4229-bc7b-00cd33b36ba1,health.accountants,available,92,36,6,,,
@@ -997,5 +999,3 @@ d91d5823-74c4-431b-b7b5-a26f3b8db80a,health.today,premium,92,36,6,,,
 cbe4df44-a5cf-4897-a7e2-2b49b79df793,health.toys,resell,92,36,6,Porkbun LLC,29/01/2023 15:15,29/01/2026 15:15
 7bb4becf-a05e-4798-989c-e70def4f2fae,health.trade,resell,92,36,6,Porkbun,29/07/2019 12:29,29/07/2030 12:29
 ad14a33f-31e2-449b-96ae-17bee0ede4c5,health.tube,expired,92,36,6,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
-1bbd9197-042b-4d62-8ada-209317f23faa,health.tv,expiring,92,36,6,"eNom, LLC",26/12/2000 08:00,26/12/2025 08:00
-a16ad055-9033-4086-a618-e0e40fcf7951,health.uno,premium,92,36,6,,,
