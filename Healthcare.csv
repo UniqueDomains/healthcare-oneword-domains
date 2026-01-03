@@ -373,6 +373,9 @@ c0dfb676-0fd7-496a-8bdb-7abf882f6c7a,services.wtf,premium,72,23,8,,,
 53e05ad9-e12a-4de7-8d46-f0602468093e,services.you,premium,72,23,8,,,
 c4445b4f-e4cc-4759-bfb2-3325b4f493e8,services.zip,premium,72,23,8,,,
 c8b82e69-2f69-440e-abff-c44b69e17f02,services.zone,resell,72,23,8,"DNSPod, Inc.",18/08/2020 03:13,18/08/2026 03:13
+0f28d547-3ce5-4fd4-aa3e-ced1bc0ca549,care.delivery,sold,80,31,4,Dynadot Inc,24/10/2020 13:59,24/10/2026 13:59
+31d93de1-65be-49bc-8e98-5b31cccec412,care.democrat,available,80,31,4,,,
+882f951b-4b32-410e-9ee5-3444c835270b,care.dentist,premium,80,31,4,,,
 8e0462c2-af82-446d-8ae7-b2ada518bcec,care.dev,sold,80,31,4,"GoDaddy.com, LLC",21/07/2025 21:34,21/07/2026 21:34
 6b9e99a6-01b1-4d43-a532-99efa90b96af,care.diamonds,available,80,31,4,,,
 31e9d6a1-5a4c-49ce-942f-32ea40b0d1eb,care.diet,premium,80,31,4,,,
@@ -709,9 +712,6 @@ c13f5ce8-f969-4d67-9eb8-e1eef53582ab,care.day,premium,80,31,4,,,
 34896b18-43ea-4880-b32f-c311d41200c3,care.deal,premium,80,31,4,,,
 477a1d6e-70b8-486d-a2d2-6c553ba05cb5,care.dealer,premium,80,31,4,,,
 770c35d9-6a17-4650-ae32-a1afbaee2d7b,care.degree,available,80,31,4,,,
-0f28d547-3ce5-4fd4-aa3e-ced1bc0ca549,care.delivery,sold,80,31,4,Dynadot Inc,24/10/2020 13:59,24/10/2026 13:59
-31d93de1-65be-49bc-8e98-5b31cccec412,care.democrat,available,80,31,4,,,
-882f951b-4b32-410e-9ee5-3444c835270b,care.dentist,premium,80,31,4,,,
 d13c43ad-96cf-4dbc-bbbc-5b058b384e2d,health.ac,resell,92,36,6,"GoDaddy.com, LLC",25/06/2019 02:43,25/06/2026 02:43
 ef85acc2-652a-404a-aeef-43e802aea447,health.accountant,premium,92,36,6,,,
 1c1897b7-cd19-4229-bc7b-00cd33b36ba1,health.accountants,available,92,36,6,,,
