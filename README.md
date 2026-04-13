@@ -1,29 +1,29 @@
-# Healthcare One-Word Domains (19,997)
+# Available .HEALTHCARE One-Word Domains (9,278)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C997%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C278%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C278%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of healthcare one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .healthcare one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,997 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 10,000 rows · **Live catalog:** 19,997 domains
+**Public extract:** 9,278 rows · **Live catalog:** 9,278 domains
 
-**Last updated:** 2026-04-12  
-**Canonical page:** `https://unique.domains/domains/sector/healthcare`  
+**Last updated:** 2026-04-13  
+**Canonical page:** `https://unique.domains/domains/tld/healthcare`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/healthcare?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/healthcare?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./healthcare.csv">CSV</a> / <a href="./healthcare.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,20 +31,20 @@ Daily-updated public extract of healthcare one-word domains from Unique Domains.
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/healthcare?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/healthcare?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this .HEALTHCARE search](https://unique.domains/domains/tld/healthcare?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .HEALTHCARE search](https://unique.domains/domains/tld/healthcare?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/healthcare`.
+This repository is the public extract for Unique Domains' .HEALTHCARE one-word domain catalog.
 
 ### Files
 
-- `healthcare.csv` — public CSV extract (10,000 rows)
-- `healthcare.json` — public JSON extract (10,000 rows)
+- `healthcare.csv` — public CSV extract (9,278 rows)
+- `healthcare.json` — public JSON extract (9,278 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| surgery.zone    | available | $51.98     | —             | 66             | 76     | 7      | namecheap                  |
-| diagnosis.net   | resell    | $11,659.85 | $23.99        | 62             | 76     | 9      | GoDaddy.com, LLC           |
-| therapy.tech    | premium   | $781.25    | $3,125        | 94             | 92     | 7      | name.com                   |
-| surgery.gg      | available | $82.98     | —             | 66             | 76     | 7      | namecheap                  |
-| diagnosis.gg    | resell    | $82.98     | —             | 62             | 76     | 9      | 1API (http://www.1api.net) |
-| therapy.store   | premium   | $781.25    | $3,125        | 94             | 92     | 7      | name.com                   |
-| diagnosis.zone  | available | $51.98     | —             | 62             | 76     | 9      | namecheap                  |
-| health.theater  | resell    | $80.98     | —             | 92             | 43     | 6      | Sav.com, LLC               |
-| therapy.site    | premium   | $1,562.50  | $6,250        | 94             | 92     | 7      | name.com                   |
-| diagnosis.ninja | available | $42.98     | —             | 62             | 76     | 9      | namecheap                  |
-| care.rip        | resell    | $32.98     | —             | 80             | 40     | 4      | Dynadot Inc                |
-| therapy.online  | premium   | $3,125     | $12,500       | 94             | 92     | 7      | name.com                   |
-| health.poker    | available | $85.98     | —             | 92             | 45     | 6      | namecheap                  |
-| care.beer       | resell    | $41.98     | —             | 80             | 40     | 4      | Dynadot Inc                |
-| wellness.tech   | premium   | $1,562.50  | $6,250        | 72             | 84     | 8      | name.com                   |
-| health.voting   | available | $1,448     | —             | 92             | 43     | 6      | namecheap                  |
-| fitness.net     | resell    | $287,500   | $23.99        | 78             | 36     | 7      | GoDaddy.com, LLC           |
-| wellness.site   | premium   | $781.25    | $3,125        | 72             | 84     | 8      | name.com                   |
-| health.vodka    | available | $38.98     | —             | 92             | 43     | 6      | namecheap                  |
-| technology.army | resell    | $48.98     | —             | 88             | 35     | 10     | GoDaddy.com, LLC           |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| game.healthcare    | available | $91.99    | $113.99       | 120            | 50     | 4      | name.com      |
+| eye.healthcare     | resell    | —         | —             | 66             | 99     | 3      | Sav.com, LLC  |
+| live.healthcare    | premium   | $250      | $250          | 108            | 56     | 4      | name.com      |
+| beyond.healthcare  | available | $91.99    | —             | 77             | 48     | 6      | name.com      |
+| impact.healthcare  | resell    | —         | —             | 74             | 73     | 6      | Sav.com, LLC  |
+| fast.healthcare    | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com      |
+| trade.healthcare   | available | $111.98   | —             | 116            | 46     | 5      | namecheap     |
+| news.healthcare    | resell    | —         | —             | 100            | 64     | 4      | Porkbun LLC   |
+| art.healthcare     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap     |
+| only.healthcare    | available | $91.99    | $113.99       | 110            | 46     | 4      | name.com      |
+| shop.healthcare    | resell    | —         | —             | 78             | 54     | 4      | Virtualia LLC |
+| air.healthcare     | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap     |
+| hotel.healthcare   | available | $111.98   | —             | 70             | 45     | 5      | namecheap     |
+| buy.healthcare     | resell    | —         | —             | 84             | 53     | 3      | Sav.com, LLC  |
+| real.healthcare    | premium   | $260      | $260          | 78             | 49     | 4      | namecheap     |
+| creator.healthcare | available | $91.99    | $113.99       | 70             | 45     | 7      | name.com      |
+| true.healthcare    | resell    | —         | —             | 86             | 52     | 4      | Porkbun LLC   |
+| just.healthcare    | premium   | $85.80    | $85.80        | 90             | 48     | 4      | namecheap     |
+| event.healthcare   | available | $111.98   | —             | 96             | 44     | 5      | namecheap     |
+| global.healthcare  | resell    | —         | —             | 108            | 51     | 6      | Porkbun LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 19,997 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 9,278-row public sample | 9,278 live domains                               |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/healthcare?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/healthcare?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/tld/healthcare?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/healthcare?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -143,14 +143,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Healthcare One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/healthcare?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_open_search)
+- [Live .HEALTHCARE page](https://unique.domains/domains/tld/healthcare?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_healthcare_oneword_domains&utm_content=top_api_docs)
