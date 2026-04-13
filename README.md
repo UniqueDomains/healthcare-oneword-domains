@@ -69,10 +69,10 @@ print(df.head())
 | live.healthcare    | premium   | $250      | $250          | 108            | 56     | 4      | name.com      |
 | beyond.healthcare  | available | $91.99    | —             | 77             | 48     | 6      | name.com      |
 | impact.healthcare  | resell    | —         | —             | 74             | 73     | 6      | Sav.com, LLC  |
-| fast.healthcare    | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com      |
+| art.healthcare     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap     |
 | trade.healthcare   | available | $111.98   | —             | 116            | 46     | 5      | namecheap     |
 | news.healthcare    | resell    | —         | —             | 100            | 64     | 4      | Porkbun LLC   |
-| art.healthcare     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap     |
+| fast.healthcare    | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com      |
 | only.healthcare    | available | $91.99    | $113.99       | 110            | 46     | 4      | name.com      |
 | shop.healthcare    | resell    | —         | —             | 78             | 54     | 4      | Virtualia LLC |
 | air.healthcare     | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap     |
