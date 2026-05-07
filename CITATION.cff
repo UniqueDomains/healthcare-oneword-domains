@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Healthcare Keyword Domains"
+title: "Available .HEALTHCARE One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
 version: "2026-05-06"
 date-released: "2026-05-06"
-url: "https://unique.domains/domains/Healthcare?rule.0.id=keyword&rule.0.field=keyword&rule.0.op=eq&rule.0.value=sa*healthcare"
+url: "https://unique.domains/domains/tld/healthcare"
 repository-code: "https://github.com/UniqueDomains/healthcare-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of healthcare one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of available and resale .healthcare one-word domains from Unique Domains."
