@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .healthcare one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,222 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,222 domains · **Median ask:** $97.74 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,222 domains · **Median ask:** $97.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/healthcare`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/healthcare`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| finals.healthcare  | available | $88.99    | $88.99        | 80             | 7      | 6      | namesilo        |
-| jewels.healthcare  | available | $91.99    | —             | 80             | 15     | 6      | name.com        |
-| matcha.healthcare  | available | $91.99    | —             | 86             | 39     | 6      | name.com        |
-| Apples.healthcare  | available | $111.98   | —             | 90             | 16     | 6      | namecheap       |
-| dogsit.healthcare  | available | $91.99    | —             | 96             | 2      | 6      | name.com        |
-| playin.healthcare  | available | $91.99    | —             | 80             | 10     | 7      | name.com        |
-| QandA.healthcare   | available | $111.98   | —             | 80             | 10     | 7      | namecheap       |
-| toneup.healthcare  | available | $91.99    | —             | 80             | 5      | 7      | name.com        |
-| makeit.healthcare  | available | $91.99    | —             | 82             | 21     | 7      | name.com        |
-| stirup.healthcare  | available | $91.99    | —             | 82             | 3      | 7      | name.com        |
-| watches.healthcare | available | $91.99    | —             | 84             | 19     | 7      | name.com        |
-| cars.healthcare    | available | $91.99    | —             | 66             | 47     | 4      | name.com        |
-| pay.healthcare     | resell    | —         | —             | 84             | 63     | 3      | Spaceship, Inc. |
-| Tools.healthcare   | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap       |
-| trends.healthcare  | premium   | $250      | —             | 60             | 32     | 6      | name.com        |
-| lets.healthcare    | available | $91.99    | —             | 77             | 39     | 4      | name.com        |
-| rewards.healthcare | premium   | $242      | $242          | 62             | 30     | 7      | namesilo        |
-| justin.healthcare  | available | $91.99    | —             | 58             | 38     | 7      | name.com        |
-| Jim.healthcare     | premium   | $138.60   | $138.60       | 78             | 28     | 3      | namecheap       |
-| tokens.healthcare  | available | $88.99    | $88.99        | 51             | 36     | 6      | namesilo        |
+| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| perspective.healthcare     | available | $88.99    | $88.99        | 88             | 27     | 11     | namesilo  |
+| virtuoso.healthcare        | available | $91.99    | $113.99       | 94             | 20     | 8      | name.com  |
+| independenceday.healthcare | available | $88.99    | $88.99        | 82             | 7      | 16     | namesilo  |
+| vegetable.healthcare       | available | $88.99    | $88.99        | 98             | 11     | 9      | namesilo  |
+| kindness.healthcare        | available | $88.99    | $88.99        | 82             | 20     | 8      | namesilo  |
+| omen.healthcare            | available | $88.99    | $88.99        | 88             | 21     | 4      | namesilo  |
+| aging.healthcare           | available | $91.99    | $113.99       | 86             | 13     | 5      | name.com  |
+| spoof.healthcare           | available | $88.99    | $88.99        | 104            | 10     | 5      | namesilo  |
+| fight.healthcare           | available | $88.99    | $88.99        | 94             | 27     | 5      | namesilo  |
+| tradition.healthcare       | available | $88.99    | $88.99        | 88             | 14     | 9      | namesilo  |
+| dental.healthcare          | premium   | $500      | $500          | 90             | 37     | 6      | name.com  |
+| gooutside.healthcare       | available | $88.99    | $88.99        | 80             | 6      | 10     | namesilo  |
+| zone.healthcare            | available | $88.99    | $88.99        | 94             | 31     | 4      | namesilo  |
+| indifferent.healthcare     | available | $88.99    | $88.99        | 84             | 5      | 11     | namesilo  |
+| kamikaze.healthcare        | available | $88.99    | $88.99        | 86             | 12     | 8      | namesilo  |
+| affluent.healthcare        | available | $91.99    | $113.99       | 88             | 10     | 8      | name.com  |
+| tangle.healthcare          | available | $88.99    | $88.99        | 88             | 12     | 6      | namesilo  |
+| symbol.healthcare          | available | $91.99    | —             | 100            | 18     | 6      | name.com  |
+| compete.healthcare         | available | $88.99    | $88.99        | 85             | 14     | 7      | namesilo  |
+| acting.healthcare          | available | $91.99    | $113.99       | 84             | 13     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
