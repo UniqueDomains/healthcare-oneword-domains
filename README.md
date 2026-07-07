@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .healthcare one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,222 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,222 domains · **Median ask:** $97.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,222 domains · **Median ask:** $97.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/healthcare`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HEALTHCARE one-word d
 
 ### Files
 
-- `healthcare.csv` — public CSV extract (1,000 rows)
-- `healthcare.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `healthcare.csv`, public CSV extract (1,000 rows)
+- `healthcare.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| perspective.healthcare     | available | $88.99    | $88.99        | 88             | 27     | 11     | namesilo  |
-| virtuoso.healthcare        | available | $91.99    | $113.99       | 94             | 20     | 8      | name.com  |
-| independenceday.healthcare | available | $88.99    | $88.99        | 82             | 7      | 16     | namesilo  |
-| vegetable.healthcare       | available | $88.99    | $88.99        | 98             | 11     | 9      | namesilo  |
-| kindness.healthcare        | available | $88.99    | $88.99        | 82             | 20     | 8      | namesilo  |
-| omen.healthcare            | available | $88.99    | $88.99        | 88             | 21     | 4      | namesilo  |
-| aging.healthcare           | available | $91.99    | $113.99       | 86             | 13     | 5      | name.com  |
-| spoof.healthcare           | available | $88.99    | $88.99        | 104            | 10     | 5      | namesilo  |
-| fight.healthcare           | available | $88.99    | $88.99        | 94             | 27     | 5      | namesilo  |
-| tradition.healthcare       | available | $88.99    | $88.99        | 88             | 14     | 9      | namesilo  |
-| dental.healthcare          | premium   | $500      | $500          | 90             | 37     | 6      | name.com  |
-| gooutside.healthcare       | available | $88.99    | $88.99        | 80             | 6      | 10     | namesilo  |
-| zone.healthcare            | available | $88.99    | $88.99        | 94             | 31     | 4      | namesilo  |
-| indifferent.healthcare     | available | $88.99    | $88.99        | 84             | 5      | 11     | namesilo  |
-| kamikaze.healthcare        | available | $88.99    | $88.99        | 86             | 12     | 8      | namesilo  |
-| affluent.healthcare        | available | $91.99    | $113.99       | 88             | 10     | 8      | name.com  |
-| tangle.healthcare          | available | $88.99    | $88.99        | 88             | 12     | 6      | namesilo  |
-| symbol.healthcare          | available | $91.99    | —             | 100            | 18     | 6      | name.com  |
-| compete.healthcare         | available | $88.99    | $88.99        | 85             | 14     | 7      | namesilo  |
-| acting.healthcare          | available | $91.99    | $113.99       | 84             | 13     | 6      | name.com  |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| ADS.healthcare         | available | $88.99    | $88.99        | high           | medium | 3      | namesilo             |
+| Women.healthcare       | resell    | —         | —             | medium         | low    | 5      | WEDOS Internet, a.s. |
+| add.healthcare         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo             |
+| but.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| doctor.healthcare      | resell    | —         | —             | high           | low    | 6      | Edomains LLC         |
+| art.healthcare         | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap            |
+| bye.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| advertising.healthcare | resell    | —         | —             | high           | low    | 11     | GoDaddy.com, LLC     |
+| bag.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
+| cot.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| boy.healthcare         | premium   | $123.75   | —             | medium         | low    | 3      | name.com             |
+| ole.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| bro.healthcare         | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo             |
+| shh.healthcare         | available | $88.99    | $88.99        | medium         | low    | 3      | namesilo             |
+| bud.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
+| spf.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| car.healthcare         | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap            |
+| suv.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| cod.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
+| tho.healthcare         | available | $91.99    | —             | medium         | low    | 3      | name.com             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .healthcare domains, including names such as Acup.healthcare, Trex.healthcare, WiFi.healthcare, homes.healthcare, and ladies.healthcare. The extension makes the healthcare angle explicit, so the main choice is whether the word adds credibility, memorability, and clean category fit. Some names are direct and descriptive, while others are broader or more abstract. When comparing these domains, focus on whether the word feels natural beside .healthcare, whether it is easy to say and spell, and whether the asking price fits the strength of the term. For cautious buyers, this is also where trademark review matters most.
+This set of one-word .healthcare domain names spans clinical terminology, wellness routines, and everyday phrases repurposed for the health sector. With 12,222 names carrying a median ask near $97, pricing stays accessible for early-stage brand testing. Some entries, like matcha.healthcare or restassured.healthcare, read as clean, ownable brand names, while others reference existing characters or generic phrases that carry higher naming and trademark risk. When comparing these domains, weigh clarity, spelling simplicity, and how directly the word signals a healthcare use case.
 
-- All names in this set use the .healthcare extension
-- Median ask across the selection is 97.74
-- Prefer words that read naturally with .healthcare
-- Check trademark risk before valuing brandability
+- 12,222 one-word .healthcare domain names in this selection
+- Median ask near $97 across the set
+- Mix of clinical, wellness, and everyday-word names
+- Check each name for trademark or brand-conflict risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
