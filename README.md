@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .healthcare one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,753 domains · **Median ask:** $93.97 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/healthcare`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | art.healthcare         | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap            |
 | but.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
 | advertising.healthcare | resell    | —         | —             | medium         | low    | 11     | GoDaddy.com, LLC     |
-| bag.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
+| bag.healthcare         | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo             |
 | bye.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
 | boy.healthcare         | premium   | $123.75   | —             | medium         | low    | 3      | name.com             |
 | cot.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
