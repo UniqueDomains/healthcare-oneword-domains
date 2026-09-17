@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .healthcare one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,815 domains · **Median ask:** $93.05 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/healthcare`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| nothing.healthcare     | available | $88.99    | $88.99        | high           | low    | 7      | namesilo             |
-| here.healthcare        | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo             |
-| fancy.healthcare       | available | $88.99    | $88.99        | high           | low    | 5      | namesilo             |
-| fuck.healthcare        | available | $88.99    | $88.99        | high           | high   | 4      | namesilo             |
 | ADS.healthcare         | available | $88.99    | $88.99        | high           | medium | 3      | namesilo             |
 | Women.healthcare       | resell    | —         | —             | medium         | low    | 5      | WEDOS Internet, a.s. |
 | add.healthcare         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo             |
@@ -84,6 +80,10 @@ print(df.head())
 | ixl.healthcare         | available | $88.99    | $88.99        | low            | low    | 3      | namesilo             |
 | bud.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
 | lxi.healthcare         | available | $88.99    | $88.99        | low            | low    | 3      | namesilo             |
+| car.healthcare         | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap            |
+| ole.healthcare         | available | $88.99    | $88.99        | high           | low    | 3      | namesilo             |
+| cod.healthcare         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo             |
+| shh.healthcare         | available | $88.99    | $88.99        | medium         | low    | 3      | namesilo             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
