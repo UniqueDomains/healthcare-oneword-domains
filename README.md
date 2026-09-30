@@ -1,10 +1,10 @@
-# Available .HEALTHCARE One-Word Domains (25,954)
+# Available .HEALTHCARE One-Word Domains (28,198)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C954%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C198%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .healthcare one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,954 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,198 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,954 domains · **Median ask:** $92.31 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 28,198 domains · **Median ask:** $91.01 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/healthcare`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | bae.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
 | ocean.healthcare   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
 | cpc.healthcare     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| bjs.healthcare     | available | $88.99    | $88.99        | medium         | low    | 3      | namesilo        |
+| bjs.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
 | store.healthcare   | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
 | due.healthcare     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap       |
-| blt.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
+| crc.healthcare     | available | $70.55    | $70.55        | high           | low    | 3      | porkbun         |
 | restore.healthcare | resell    | —         | —             | high           | low    | 7      | —               |
 | gel.healthcare     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap       |
-| crc.healthcare     | available | $70.55    | $70.55        | high           | low    | 3      | porkbun         |
-| gem.healthcare     | premium   | $102.67   | $102.67       | high           | medium | 3      | spaceship       |
 | ghz.healthcare     | available | $93.98    | $111.98       | high           | low    | 3      | namecheap       |
-| guy.healthcare     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| gem.healthcare     | premium   | $102.67   | $102.67       | high           | medium | 3      | spaceship       |
 | git.healthcare     | available | $88.99    | $88.99        | high           | medium | 3      | namesilo        |
-| hat.healthcare     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap       |
-| had.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
-| mat.healthcare     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| guy.healthcare     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | hep.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
-| pig.healthcare     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| hat.healthcare     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap       |
 | lid.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
+| hue.healthcare     | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap       |
+| maj.healthcare     | available | $88.99    | $88.99        | high           | low    | 3      | namesilo        |
+| mat.healthcare     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| mla.healthcare     | available | $72.98    | $72.98        | high           | low    | 3      | dynadot         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,954 live domains                        |
+| 1,000-row public sample | 28,198 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HEALTHCARE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
